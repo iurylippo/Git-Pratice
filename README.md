@@ -1,2 +1,2 @@
 # Git-Pratice
-## leran git at vs code
+## learn git at vs code
